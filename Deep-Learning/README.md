@@ -25,11 +25,11 @@ The dataset is intended as a drop-in replacement for the original MNIST dataset,
 ## The Multilayer Perceptron
 A multilayer feedforward network, also known as a multilayer perceptron (MLP), is a type of artificial neural network (ANN) that consists of multiple layers of nodes, each connected to the next. The nodes in each layer are fully connected to the nodes in the next layer, but there are no connections between nodes within the same layer. The following figures provides an examples of MLP architecture.
 
-<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/NN_gif.gif" alt="1 Hidden MultiLayer Perceptron" width="500" height="300">
+<p align="center"><img src="https://github.com/kashifliaqat/Deep_Reinforcement_Learning/blob/main/Deep-Learning/Figures/NN_gif.gif" alt="1 Hidden MultiLayer Perceptron" width="500" height="300">
 
 <p align="center"><em>MLP with one hidden layer.</em></p>
 
-<p align="center"><img src="https://github.com/kashifliaqat/Data_Science_and_Machine-Learning/raw/main/Images/MLP.png" alt="MultiLayer Perceptron" width="500" height="300">
+<p align="center"><img src="https://github.com/kashifliaqat/Deep_Reinforcement_Learning/blob/main/Deep-Learning/Figures/MLP.png" alt="MultiLayer Perceptron" width="500" height="300">
 
 <p align="center"><em>MLP with two hidden layers.</em></p>
 
